@@ -1,5 +1,5 @@
 # Gesture
-Hand Gesture classification using custom video dataset that has 4 classes
+Hand Gesture classification using a custom video dataset that has 4 classes
 
 ![alt text](https://github.com/matinhs/Gesture/blob/main/Screenshot%202023-01-19%20193524.jpg)
 
